@@ -1,6 +1,6 @@
 <p align="center">
   <strong>We're hiring!</strong> Located in Paris 🇫🇷 and dreaming of being full-time on Strapi?
-  <a href="https://strapi.io/company#looking-for-talents">Join us</a>!
+  <a href="https://strapi.io/company#looking-for-talents">Join us Today</a>!
 </p>
 
 ---
